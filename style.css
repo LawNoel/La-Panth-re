@@ -1054,6 +1054,15 @@ h4 {
         width: 180px;
         height: 320px;
     }
+
+    .annuaire {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .col-sm-4 {
+        margin: 0;
+    }
 }
 
 @media only screen and (max-width: 400px) {
